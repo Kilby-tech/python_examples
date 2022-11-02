@@ -1,2 +1,2 @@
-# python_script_examples
+# python_examples
 Examples for python scripting
